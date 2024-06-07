@@ -1,0 +1,3 @@
+C:/Users/nikit/OneDrive/Рабочий стол/ekz/cmake-build-debug/CMakeFiles/ekz.dir
+C:/Users/nikit/OneDrive/Рабочий стол/ekz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikit/OneDrive/Рабочий стол/ekz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
